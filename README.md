@@ -1,5 +1,34 @@
-# Exploring AI 🌱
+# Hi, I'm Helen
 
-Currently exploring the world of AI — learning, experimenting, and discovering what’s possible.
+I build practical AI applications and developer tools, with a focus on agent workflows and automation.
 
-正在探索 AI，保持学习、尝试与好奇。
+我关注 AI 如何进入实际工作流，通过个人工具、Hackathon 原型和开源贡献持续探索。
+
+## My projects · 个人项目
+
+| Project | What it does |
+| --- | --- |
+| [auto-deploy](https://github.com/helen-bird/auto-deploy) | Deploy trusted personal macOS services with explicit commit approval, health checks, and rollback. |
+
+## Hackathon projects
+
+| Project | What it explores |
+| --- | --- |
+| [Hirebit](https://github.com/helen-bird/hirebit) | Budget-controlled AI purchasing and product-video delivery, with simulated Bitcoin payments. |
+
+Hirebit is a hackathon prototype. Its interactive demo has been retired; the code and local setup remain available.
+
+## Open-source contributions · 开源贡献
+
+**[Avelis](https://github.com/CALLE-AI/awesome-phone-call-agents/tree/main/apps/typescript/avelis)** — contributed a reference workflow for contextual phone follow-up, transcript evidence verification, and clinician handoff to the CALL-E community.
+
+- [Implementation — merged PR #662](https://github.com/CALLE-AI/awesome-phone-call-agents/pull/662)
+- [Product rationale and documentation — merged PR #735](https://github.com/CALLE-AI/awesome-phone-call-agents/pull/735)
+
+Avelis is a demonstration reference for supervised fictional roleplay.
+
+## Interests & collaboration
+
+Interested in practical AI workflows, agent applications, and developer tools. Suggestions and contributions are welcome through the relevant project's issues.
+
+[Explore my starred projects](https://github.com/helen-bird?tab=stars)

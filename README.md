@@ -33,4 +33,6 @@ Interested in practical AI workflows, agent applications, and developer tools. S
 
 Contact: [helenbirdlqc@gmail.com](mailto:helenbirdlqc@gmail.com)
 
-[Explore my starred projects](https://github.com/helen-bird?tab=stars)
+## Learning & references · 收藏与学习
+
+[Open-source projects I follow for learning and inspiration](https://github.com/stars/helen-bird/lists/learning-references)

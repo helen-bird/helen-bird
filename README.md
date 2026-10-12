@@ -31,4 +31,6 @@ Avelis is a demonstration reference for supervised fictional roleplay.
 
 Interested in practical AI workflows, agent applications, and developer tools. Suggestions and contributions are welcome through the relevant project's issues.
 
+Contact: [helenbirdlqc@gmail.com](mailto:helenbirdlqc@gmail.com)
+
 [Explore my starred projects](https://github.com/helen-bird?tab=stars)
